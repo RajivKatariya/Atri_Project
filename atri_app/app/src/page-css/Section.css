@@ -1,0 +1,83 @@
+.p-Section.Div18 {
+height: 500px;
+}
+.p-Section.Flex8 {
+display: flex;
+height: ;
+background-color: #FFF9F3ff;
+margin-top: 10px;
+}
+.p-Section.Div21 {
+margin-left: 50px;
+width: 600px;
+color: #ffff;
+border-radius: 50px;
+}
+.p-Section.Image16 {
+margin-left: 50px;
+margin-top: 50px;
+border-radius: 20px;
+padding-bottom: ;
+margin-bottom: 20px;
+width: 460px;
+}
+.p-Section.TextBox33 {
+margin-top: 50px;
+margin-left: 50px;
+font-size: 50px;
+color: #060606;
+}
+.p-Section.TextBox34 {
+margin-left: 50px;
+margin-top: 20px;
+font-size: 20px;
+color: #8d8d8dff;
+}
+.p-Section.TextBox35 {
+margin-left: 50px;
+margin-top: 20px;
+font-size: 20px;
+color: #8d8d8dff;
+}
+.p-Section.Button10 {
+color: #000000ff;
+background-color: #ffffffff;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #ccccccff;
+cursor: pointer;
+user-select: none;
+margin-top: 50px;
+margin-left: 70px;
+box-sizing: border-box;
+line-height: ;
+}
+.p-Section.Button11 {
+color: #fff;
+background-color: #FF7629ff;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: ;
+border-style: none;
+border-color: #1890ffff;
+cursor: pointer;
+user-select: none;
+margin-top: ;
+margin-left: 40px;
+}

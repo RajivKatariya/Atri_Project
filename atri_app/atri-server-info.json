@@ -1,0 +1,25 @@
+{
+  "port": 4005,
+  "pythonPort": 4007,
+  "publicDir": "dist/app",
+  "pages": {
+    "/Home": {
+      "name": "Home"
+    },
+    "/Browse": {
+      "name": "Browse"
+    },
+    "/Section": {
+      "name": "Section"
+    },
+    "/main seticon": {
+      "name": "main seticon"
+    }
+  },
+  "publicUrlAssetMap": {
+    "/app-assets": "..\\assets"
+  },
+    "organizationName": "Rajiv Kumar",
+    "projectName": "Atri_Project"
+  }
+  
